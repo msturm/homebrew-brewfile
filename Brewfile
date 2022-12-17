@@ -5,9 +5,15 @@ cask 'iterm2'
 cask '1password'
 cask 'spotify'
 cask 'dropbox'
+cask 'alfred'
+cask 'docker'
+cask 'java'
 
 brew 'ssh-copy-id'
 brew 'git'
 brew 'hub'
-
+brew 'bash-completion'
+brew 'wget'
+brew 'scala'
+brew 'python'
 
