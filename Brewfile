@@ -6,7 +6,6 @@ cask 'dropbox'
 cask 'bartender'
 cask 'rectangle'
 
-brew 'sdkman'
 brew 'ssh-copy-id'
 brew 'git'
 brew 'hub'
